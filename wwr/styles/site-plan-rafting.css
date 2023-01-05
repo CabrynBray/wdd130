@@ -21,7 +21,7 @@ Fonts are separated by a & */
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #8ecae6; /* paragraph text on a colored background */ 
   --paragraph-background-color: #023047  ;
-  --nav-link-color: #fb8500;
+  --nav-link-color: #023047;
   --nav-background-color: #ffb703;
   --nav-hover-link-color: white;
   --nav-hover-background-color: #fb8500;
