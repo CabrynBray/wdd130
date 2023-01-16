@@ -7,6 +7,7 @@ nav, footer {
 }
 
 a {
+    padding: 10px;
     font-size: 1em;
     color: white;
     margin: 40px;
@@ -14,14 +15,16 @@ a {
 }
 
 h1, h2 {
+    margin: 50px 0;
     text-align: center;
     color: steelblue;
 }
 
 img {
-    width: 40%;
+    padding: 25px;
+    width: 80%;
     display: block;
-    margin: 0 auto;
+    margin: 50px auto;
     border: 4px solid steelblue;
 }
 
