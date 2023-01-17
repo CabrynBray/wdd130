@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Open+Sans:ital,wght@1,300&display=swap');
+
 div {
     max-width: 1600px;
 }
@@ -32,13 +34,16 @@ main section {
 body {
     background-color: #fcfbfb; 
     margin: 0;
+    font-family: 'Open Sans', Helvetica, sans-serif;
 }
 header {
     background-color: #023047;
+    font-family:  "East Sea Dokdo", 'Rock Salt', sans-serif;
 }
 
 .home-title {
     color:black;
+    font-family:  "East Sea Dokdo", 'Rock Salt', sans-serif;
 }
 
 h1 {
@@ -70,6 +75,7 @@ nav a:hover {
 }
 .msg h2 {
     color: black;
+    font-family:  "East Sea Dokdo", 'Rock Salt', sans-serif;
 }
 
 .msg p {
