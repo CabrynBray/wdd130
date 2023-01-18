@@ -12,6 +12,7 @@ nav a {
     text-align: center;
     color: #023047;
     text-decoration: none;
+    padding: 35px;
 }
 
 #hero-msg h1, #hero-msg h4 {
@@ -35,6 +36,9 @@ body {
     background-color: #fcfbfb; 
     margin: 0;
     font-family: 'Open Sans', Helvetica, sans-serif;
+    font-size: 22px;
+    padding: 0;
+    margin: 0;
 }
 header {
     background-color: #023047;
@@ -44,10 +48,16 @@ header {
 .home-title {
     color:black;
     font-family:  "East Sea Dokdo", 'Rock Salt', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
 }
 
 h1 {
     margin: 50px 0;
+}
+
+h2 {
+    margin: 0;
 }
 
 h4 {
@@ -63,6 +73,10 @@ nav a:hover {
     background-color: #ffb703;
     color: black;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover, .join:hover {
@@ -72,6 +86,8 @@ nav a:hover {
 
 .msg {
     background-color: #8ecae6;
+    line-height: 1.5em;
+    padding: 35px;
 }
 .msg h2 {
     color: black;
@@ -80,11 +96,15 @@ nav a:hover {
 
 .msg p {
     color: black;
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 
 footer {
     background-color: #023047;
     color:#8ecae6;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 footer a {
     color:#ffb703;
@@ -93,6 +113,10 @@ footer a {
 
 footer a:hover {
     color:#fb8500;
+}
+
+footer .social img {
+    padding-top: 15px;
 }
 
 footer p {
@@ -106,12 +130,17 @@ footer p a:hover {
     text-decoration: underline;
 }
 
+#logo_link {
+    padding-top: 5px;
+}
+
 .logo {
     width: 80px;
 }
 
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 
 #hero-img {
@@ -131,4 +160,16 @@ img {
     display: block;
     margin: 50px auto;
     border: 4px solid steelblue;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+.card-img {
+    border: 10px solid #023047;
+}
+
+main section img {
+    box-sizing: border-box;
 }
