@@ -10,7 +10,7 @@ div {
 
 nav a {
     text-align: center;
-    color: #023047;
+    color: #ffb703;
     text-decoration: none;
     padding: 35px;
 }
@@ -29,7 +29,7 @@ main section {
  
 #background {
     height: 725px;
-    background-color: azure;
+    background-color: #023047;
 }
 
 body {
@@ -107,7 +107,7 @@ footer p a:hover {
 }    
 
 .home-title {
-    color:black;
+    color: #023047;
     font-family:  "East Sea Dokdo", 'Rock Salt', sans-serif;
     font-size: 2em;
     margin-top: 10px;
@@ -118,7 +118,7 @@ h2 {
 }
 
 h4 {
-    color:#fb8500;
+    color:#8ecae6;
 }
 
 .logo {
