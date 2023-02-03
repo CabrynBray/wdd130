@@ -8,7 +8,7 @@ Fonts are separated by a | */
   --primary-color: #3d3d3d   ;
   --secondary-color: #b6d094 ;
   --accent1-color: #e1aa7d;
-  --accent2-color: #6a2e35;
+  --accent2-color: #ce5a67;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Gloria Hallelujah", Helvetica, sans-serif;
@@ -21,7 +21,7 @@ Fonts are separated by a | */
   --paragraph-color-on-color: #e1aa7d; /* paragraph text on a colored background */ 
   --paragraph-background-color: #3d3d3d  ;
   --nav-link-color: #e1aa7d;
-  --nav-background-color: #6a2e35;
+  --nav-background-color: #ce5a67;
   --nav-hover-link-color: #3d3d3d;
   --nav-hover-background-color: #e1aa7d;
 }
